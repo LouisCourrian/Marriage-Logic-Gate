@@ -19,9 +19,16 @@ And what is better than an AI to carry out this mission? Your wife, but if you a
 You don't want to be single. So an AI is the key to living a lasting love relationship.
 Don't worry, it's very simple to use.
 
-Firstly:
-Launch marriage-logic-gate.py and use the function generate_network() to create the AI once it's finished, you can go to the step two
+How use it : 
+  - Firstly:
+    Launch marriage-logic-gate.py and use the function generate_network() to create the AI once it's finished, you can go to the step two
 
-Secondly:
-Run the who_is_right_or_wrong (husband, wife) function, you have to replace husband and wife by 0 or 1, it's simple 0 for wrong and 1 for right.
-For example, your right and your wife is wrong, so you type "who_is_right_or_wrong (1, 0)"
+  - Secondly:
+    Run the who_is_right_or_wrong (husband, wife) function, you have to replace husband and wife by 0 or 1, it's simple 0 for wrong and 1 for right.
+    For example, your right and your wife is wrong, so you type "who_is_right_or_wrong (1, 0)"
+
+Requirement :
+
+  - Keras : https://pypi.org/project/keras/
+
+  - Tensorflow : https://pypi.org/project/tensorflow/

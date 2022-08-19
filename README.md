@@ -3,8 +3,7 @@
 This application is not made for women. It's made for men that not understand there wife.
 You know how it can be difficult to understand the marriage logic. But a day I saw this video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQMpDizgv4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<a href="https://www.youtube.com/embed/vQMpDizgv4I" target="_blank"><img src="http://img.youtube.com/vi/vQMpDizgv4I/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Marriage Logic Gate                
 

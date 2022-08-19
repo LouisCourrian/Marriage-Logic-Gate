@@ -5,16 +5,16 @@ You know how it can be difficult to understand the marriage logic. But a day I s
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQMpDizgv4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
---------------------------------------
+
 | Marriage Logic Gate                |
---------------------------------------
+|------------------------------------|
 |Husband |Wife    ||Result           | 
---------------------------------------
+|------------------------------------|
 |Wrong   |Right   ||Wife is right    |
 |Right   |Right   ||Wife is right    |
 |Right   |Wrong   ||Wife is right    |
 |Wrong   |Wrong   ||husband is wrong |
---------------------------------------
+
 But table still difficult to read, so a day I decided to code an app that can help men in this case.
 And what is better than an AI to carry out this mission? Your wife, but if you ask her, she could leave you.
 You don't want to be single. So an AI is the key to living a lasting love relationship.

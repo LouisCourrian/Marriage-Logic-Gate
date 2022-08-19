@@ -6,8 +6,8 @@ You know how it can be difficult to understand the marriage logic. But a day I s
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQMpDizgv4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-| Marriage Logic Gate                |
-|------------------------------------|
+Marriage Logic Gate                
+
 |Husband |Wife    ||Result           | 
 |------------------------------------|
 |Wrong   |Right   ||Wife is right    |

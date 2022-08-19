@@ -8,11 +8,12 @@ You know how it can be difficult to understand the marriage logic. But a day I s
 
 Marriage Logic Gate                
 
-|Husband |Wife    |Result           | 
-|Wrong   |Right   |Wife is right    |
-|Right   |Right   |Wife is right    |
-|Right   |Wrong   |Wife is right    |
-|Wrong   |Wrong   |husband is wrong |
+Husband |Wife |Result 
+--- | --- | ---
+Wrong |Right |Wife is right 
+Right |Right |Wife is right 
+Right |Wrong |Wife is right 
+Wrong |Wrong |husband is wrong 
 
 But table still difficult to read, so a day I decided to code an app that can help men in this case.
 And what is better than an AI to carry out this mission? Your wife, but if you ask her, she could leave you.
